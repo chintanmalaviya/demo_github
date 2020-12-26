@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
 
     AutoCompleteTextView autoCompleteTextView;
     String[] names;
+    String name;
     
     @Override
     protected void onCreate(Bundle savedInstanceState) {
